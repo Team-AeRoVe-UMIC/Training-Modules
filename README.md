@@ -1,2 +1,2 @@
-# Training-Modules
-Contains subsystem specific training modules
+# Training Modules
+Welcome to UMIC!!
