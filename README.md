@@ -1,2 +1,2 @@
-# Training Modules
-Welcome to UMIC!!
+# Welcome to AeRoVe
+Congratulations on making it here. Now begins the official part of your subsystem training
