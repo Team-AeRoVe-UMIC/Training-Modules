@@ -6,6 +6,11 @@ Congratulations on making it here. Now begins the official part of your subsyste
  ```sh
 git clone git@github.com:Team-AeRoVe-UMIC/Training-Modules.git
 ```
+* Otherwise use
+ ```sh
+git clone https://github.com/Team-AeRoVe-UMIC/Training-Modules
+```
+ 
 * To checkout to another branch
 ```sh
 git checkout <branch_name>
