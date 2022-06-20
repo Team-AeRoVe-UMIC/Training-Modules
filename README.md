@@ -1,4 +1,4 @@
-# Welcome to AeRoVe
+# Motion Planning goes here
 Congratulations on making it here. Now begins the official part of your subsystem training
 
 * You should be able to view different branches on this repo - you guessed right; these are your subsystem modules
