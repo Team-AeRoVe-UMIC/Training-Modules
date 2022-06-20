@@ -1,17 +1,15 @@
 # Motion Planning goes here
-Congratulations on making it here. Now begins the official part of your subsystem training
+Hello new recruits, after the intense round of selection and training you finally made it to the Motion Planning subsystem. Congratulations to being a part of the best subsystem of AeRoVe.
+You must all be a bit familiar to the workings of the subsystem from your training days(and probably sleepless nights ;) )
+In a way to get more informed to the subsystem and to transform you all into pros I am listing some resources which I beleive will give you many insights into the finer details involved in MP.
 
-* You should be able to view different branches on this repo - you guessed right; these are your subsystem modules
-* To clone this repo enter (ssh key should be setup)
- ```sh
-git clone git@github.com:Team-AeRoVe-UMIC/Training-Modules.git
-```
-* Otherwise use
- ```sh
-git clone https://github.com/Team-AeRoVe-UMIC/Training-Modules
-```
- 
-* To checkout to another branch
-```sh
-git checkout <branch_name>
-```
+# give more introduction resources
+here
+
+Documentation of the Flying Car Path planning Module: 
+https://app.gitbook.com/s/c8hqvED9oQ2caooL8ZMB/flying-car-part2/module-1
+#add more resources in documentation.
+
+#skydio assignment
+
+#Mavros project video and code
