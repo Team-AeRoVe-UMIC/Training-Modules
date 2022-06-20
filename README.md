@@ -1,4 +1,4 @@
-# Welcome to AeRoVe
+# Welcome to AeRoVe MechaTronics
 Congratulations on making it here. Now begins the official part of your subsystem training
 
 * You should be able to view different branches on this repo - you guessed right; these are your subsystem modules
