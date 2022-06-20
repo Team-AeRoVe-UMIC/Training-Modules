@@ -1,6 +1,6 @@
 # MULTIROTOR
 
-*Multi rotor vs fixed wing vs single rotor etc
+**Multi rotor vs fixed wing vs single rotor etc**
 ```sh
 https://www.auav.com.au/articles/drone-types/
 ```
@@ -9,12 +9,12 @@ https://www.auav.com.au/articles/drone-types/
 https://blogs.ntu.edu.sg/ps9888-2019-thenewbies/working-principle/
 ```
 
-*Introduction to parameters and forces involved in flight:
+**Introduction to parameters and forces involved in flight:**
 ```sh
 https://learn.parallax.com/tutorials/robot/elev-8/understanding-physics-multirotor-flight
 ```
 
-*Anatomy related extra resources
+**Anatomy related extra resources**
 ```sh
 https://dronebotworkshop.com/how-does-a-quadcopter-work/
 ```
