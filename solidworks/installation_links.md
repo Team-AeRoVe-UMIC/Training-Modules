@@ -1,17 +1,18 @@
+# download and instakllation guide
 **Autodesk Inventor**
-*Autodesk Inventor Professional 2021 Win 64x Download:*
+*Autodesk Inventor Professional 2021 Win 64x Download:
 ---sh
 https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual
 ---
-  (use Education access)
+*(use Education access)
 **SolidWorks**
 *Download from IIT Bombay Computer Centre
 ---sh
 http://ftp.iitb.ac.in/ftp/IITB_private/SolidWorks/
 ---
 
-*While Installing, Select option 'Individual installation'*
-*When Prompted, enter the following details for serial key and server address:*
+*While Installing, Select option 'Individual installation'
+*When Prompted, enter the following details for serial key and server address:
 *License Key - 9710 0109 7897 5887 HFB2 HFBK*
 *During First installation: *
 *Server Port info - 25734@10.185.101.108 or use 25734@WIN-UTNV8H89NIL*
