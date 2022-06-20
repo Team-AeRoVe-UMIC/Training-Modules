@@ -4,4 +4,3 @@
 * Pixhawk(Included with communication sensors) : 
 ```sh 
 https://docs.px4.io/master/en/hardware/drone_parts.html
-```
