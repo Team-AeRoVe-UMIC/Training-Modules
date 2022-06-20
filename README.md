@@ -17,6 +17,7 @@ git checkout <branch_name>
 ```
 
 # Regarding compute_f_pos.m and compute_focal_length.m
+# Assignment 1
 
 * Dolly Zoom
 
@@ -25,6 +26,7 @@ A dolly zoom is an in-camera effect where you dolly towards or away from a subje
 In the given assignment, we are provided with the 3D coordinates, and we have to complete a function, compute focal length that finds focal length such that the height of the object A remains constant while the camera moves along with Z axis. The reference depth, reference focal length and height of the object A and the camera movement will be given
 
 # Regarding est_homography.m and warp_pts.m
+# Assignment 2
 
 * Image Projection
 
