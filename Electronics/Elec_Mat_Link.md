@@ -1,5 +1,5 @@
 # Welcome to the Electronics Section
-**So here we will be studying about different electronic eqipments that are majorly used in Drones.**
+**So here we will be studying about different electronic equipments that are majorly used in Drones.**
 **Following are equipment:**
 * Pixhawk(Included with communication sensors) : 
 ```sh 
