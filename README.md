@@ -11,5 +11,6 @@ https://app.gitbook.com/s/c8hqvED9oQ2caooL8ZMB/flying-car-part2/module-1
 #add more resources in documentation.
 
 #skydio assignment
+https://colab.research.google.com/drive/1wEfzU7Pi6czht_EnAwyVw--XSsrvSwir?usp=sharing
 
 #Mavros project video and code
