@@ -6,8 +6,7 @@ In a way to get more informed to the subsystem and to transform you all into pro
 #give more introduction resources
 here
 
-Documentation of the Flying Car Path planning Module: 
-https://app.gitbook.com/s/c8hqvED9oQ2caooL8ZMB/flying-car-part2/module-1
+(Documentation of the Flying Car Path planning Module:)https://app.gitbook.com/s/c8hqvED9oQ2caooL8ZMB/flying-car-part2/module-1
 #add more resources in documentation.
 
 #skydio assignment
