@@ -12,4 +12,9 @@
  Approach this question both ways - with and without sklearn.
 
 # Financial Aid
- Refer the financial aid doc to apply for courses on Coursera, just replace the course name and copy paste 😆.
+ Refer the financial aid doc to apply for courses on Coursera, just replace the course name and copy paste 😆. The courses you need to apply to are
+ * Deep Learning Specialisation
+     * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome) 
+     * [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
+     * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
+     * [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
