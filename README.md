@@ -4,7 +4,7 @@ Welcome to Controls! <br />
 ## Part 1
 Your training starts with a Udacity Flying Car course that will help you get acquainted with the basics of quadrotor dynamics and PID control. The link for the course content can be found below.<br />
 <br />
-https://drive.google.com/drive/folders/1oRro0gnlvoybGrqTFVQiJWVqv4KWM6lN<br />
+https://drive.google.com/drive/folders/1ZAtJpYsq9r_8QnAYBPGS8-RM_CwdX70I<br />
 <br />
 The above links contains all files related to your training, including the ones pertaining to your course as well as papers on trajectory generation that you will encounter later.<br />
 Download this folder and open any HTML file inside using chrome. Then you can navigate through the course on chrome itself. <br />
@@ -20,7 +20,8 @@ Complete all four weeks of the course along with the assignment.<br />
 Sign up using the IITB email on Coursera and this course should be free for you. If it isn’t then you can apply for financial aid.<br />
 <br />
 ## Part 3
-The next part of your training requires you to go through two papers on trajectory generation. One of them is one of the most famous works on minimum snap trajectory generation by Vijay Kumar. Read this paper in detail and mark down important points. The next paper is an extension of the above paper. The initial part of this paper will help you understand the problem in a better way. Read this paper in detail up to the 9th page. Both papers can be found in the drive from the link given above.<br />
+The next part of your training requires you to go through two papers on trajectory generation. One of them is one of the most famous works on minimum snap trajectory generation by Vijay Kumar. Read this paper in detail and mark down important points. The next paper is an extension of the above paper. The initial part of this paper will help you understand the problem in a better way. Read this paper in detail up to the 9th page. Both papers can be found in the drive from the link given below.<br />
+https://drive.google.com/drive/folders/10p5J0xBnXCmS1YHs4VmpubQ_DiW77DC8
 <br />
 Some useful links that will help you understand the process better:<br />
 https://www.programmersought.com/article/42126902708/ <br />
