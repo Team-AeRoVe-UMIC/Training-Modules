@@ -21,9 +21,11 @@ Sign up using the IITB email on Coursera and this course should be free for you.
 <br />
 ## Part 3
 The next part of your training requires you to go through two papers on trajectory generation. One of them is one of the most famous works on minimum snap trajectory generation by Vijay Kumar. Read this paper in detail and mark down important points. The next paper is an extension of the above paper. The initial part of this paper will help you understand the problem in a better way. Read this paper in detail up to the 9th page. Both papers can be found in the drive from the link given below.<br />
-https://drive.google.com/drive/folders/10p5J0xBnXCmS1YHs4VmpubQ_DiW77DC8
+<br />
+https://drive.google.com/drive/folders/10p5J0xBnXCmS1YHs4VmpubQ_DiW77DC8<br />
 <br />
 Some useful links that will help you understand the process better:<br />
+<br />
 https://www.programmersought.com/article/42126902708/ <br />
 https://www.programmersought.com/article/79683831846/	<br />
 <br />
