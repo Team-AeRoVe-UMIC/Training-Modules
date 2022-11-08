@@ -4,7 +4,7 @@ Welcome to Controls! <br />
 ## Part 1
 Your training starts with a Udacity Flying Car course that will help you get acquainted with the basics of quadrotor dynamics and PID control. The link for the course content can be found below.<br />
 <br />
-https://drive.google.com/drive/folders/1ZAtJpYsq9r_8QnAYBPGS8-RM_CwdX70I<br />
+https://drive.google.com/drive/folders/1ClqLDvT_UyG1Rd4DArQm-XUh2EkyofOr?usp=share_link<br />
 <br />
 The above links contains all files related to your training, including the ones pertaining to your course as well as papers on trajectory generation that you will encounter later.<br />
 Download this folder and open any HTML file inside using chrome. Then you can navigate through the course on chrome itself. <br />
